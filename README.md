@@ -60,6 +60,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![Gimp](https://img.shields.io/badge/Gimp-111?style=for-the-badge&logo=Gimp&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
+![UML](https://img.shields.io/badge/UML-111?style=for-the-badge&logo=uml&logoColor=FFFFFF)
+![Lua](https://img.shields.io/badge/Lua-111?style=for-the-badge&logo=lua&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/Kotlin-111?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)
 
 </div>
 
