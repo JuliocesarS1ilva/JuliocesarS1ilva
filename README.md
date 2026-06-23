@@ -34,7 +34,7 @@
 <div style="border-radius:18px; overflow:hidden;">
 
 <img 
-  width="500"
+  width="400"
   src="https://i.pinimg.com/originals/fe/2f/dc/fe2fdc6104f3d651ac2a3dc93eef5d26.gif"
 />
 
