@@ -1,12 +1,8 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;Don't+fear+the+reaper." alt="Typing SVG" /></a>
 </div>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=JuliocesarS1ilva&style=flat-square&color=000000&label=PROFILE+VIEWS)
-
 
 ---
 
@@ -24,6 +20,9 @@
 <pre>
 ◈  Class     →  Backend / Full-Stack Apprentice
 ◈  Origin    →  Brazil 🇧🇷
+◈  Status    →  Improving
+◈  Build     →  INT / DEX
+◈  Status    →  Refuses to go hollow
 </pre>
 
 </div>
@@ -35,8 +34,8 @@
 <div style="border-radius:18px; overflow:hidden;">
 
 <img 
-  width="400"
-  src="https://i.pinimg.com/originals/6a/f5/c8/6af5c87e6ba7679bdb6330f6d930ccf6.gif"
+  width="500"
+  src="https://i.pinimg.com/originals/fe/2f/dc/fe2fdc6104f3d651ac2a3dc93eef5d26.gif"
 />
 
 </div>
@@ -72,7 +71,7 @@
 
 ## Statistics
 <div align="center">
-<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
+<img width="300" height="200" alt="Image" src="https://i.pinimg.com/originals/c5/e3/ce/c5e3ce24e0d642074d59469b87fd5bc7.gif" />
 
 <img src="https://streak-stats.demolab.com?user=JuliocesarS1ilva&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
