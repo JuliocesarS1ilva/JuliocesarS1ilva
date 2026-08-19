@@ -80,7 +80,7 @@
 <div align="center">
 <img width="300" height="200" alt="Image" src="https://i.pinimg.com/originals/d8/ff/b9/d8ffb9a735712791c77e5b1f08ca5ad1.gif" />
 
-<img src="https://streak-stats.demolab.com?user=JuliocesarS1ilva&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=JuliocesarS1ilva&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF"/>
 
 <br/>
 
